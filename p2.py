@@ -20,4 +20,5 @@ print('este es el resultado', resultado)
 #actividad#
 peso = float(input('ingrese el peso '))
 estatura = float (input('ingrese la estatura '))
+print ('esta es la otra rama ')
 
