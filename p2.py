@@ -22,3 +22,4 @@ peso = float(input('ingrese el peso '))
 estatura = float (input('ingrese la estatura '))
 print ('esto esta actualizado ')
 
+
